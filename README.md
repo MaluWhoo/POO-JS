@@ -1,2 +1,2 @@
-# POOP-JS
+# Programação Orientada a Objeto - JS
 
